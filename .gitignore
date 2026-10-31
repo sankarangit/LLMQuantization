@@ -1,0 +1,2 @@
+# Quantised weights are large. Recreate them with: python quantize_qwen.py
+qwen-int8/model.safetensors
